@@ -8,3 +8,6 @@ Generate the raw map with GPS data
 
 ##createTrace.cpp
 Using OpenCV to create the trace with the raw map
+
+##voronoi.cpp
+Get the skeleton of the contoured map
