@@ -136,7 +136,7 @@ int main(int argc, char** argv)
     //Mat img(rect.size(), CV_8UC3);
     
     //img = Scalar::all(0);
-    Mat img2 = imread("/Users/John443/Project/Project1/Project1/Contoured Map.bmp", CV_LOAD_IMAGE_GRAYSCALE);
+    Mat img2 = imread("Contoured Map.bmp", CV_LOAD_IMAGE_GRAYSCALE);
     
     vector<Point2f> pointSet;
     for (int i = 0; i < img2.rows; i++)

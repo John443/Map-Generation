@@ -34,7 +34,7 @@ void SplitString(const string & s, vector<string> & v, const string & c)
 int main()
 {
 	//Read File
-	string path = "E:\\Project\\Taxi\\Trace Data\\090401.csv";
+	string path = "090401.csv";
 	FILE * pFile = fopen(path.c_str(), "r");
 	if (!pFile)
 	{
