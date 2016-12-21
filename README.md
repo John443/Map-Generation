@@ -12,4 +12,7 @@ Using OpenCV to create the trace with the raw map
 ## voronoi.cpp
 Get the skeleton of the contoured map (in developing...)
 
+## mymodule.py
+Using scikit-image to get skeleton from the threshold map
+
 ### This program is still in developing. Just do it for fun in graphics and data.
